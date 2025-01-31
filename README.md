@@ -29,7 +29,7 @@ Kolom target dalam dataset ini adalah **NObeyesdad**, yang menunjukkan tingkat o
 
 ## **Technologies Used**
 Proyek ini dibangun menggunakan berbagai teknologi dan library machine learning, antara lain:
-- **Python 3.x**
+- **Python 3.9**
 - **Pandas** – untuk manipulasi data
 - **NumPy** – untuk perhitungan numerik
 - **Scikit-learn** – untuk pengembangan model machine learning (Random Forest, evaluasi model)
