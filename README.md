@@ -1,7 +1,7 @@
 # **Aplikasi Prediksi Risiko Obesitas Menggunakan Machine Learning**
 
 ## **Overview**
-Proyek ini bertujuan untuk mengembangkan sebuah model prediksi yang dapat mengestimasi risiko obesitas berdasarkan faktor-faktor gaya hidup dan kesehatan individu. Dengan menggunakan teknik machine learning, khususnya algoritma **Random Forest**, proyek ini bertujuan untuk memberikan wawasan yang lebih baik dalam upaya pencegahan dan penanganan obesitas, serta memberikan rekomendasi yang lebih tepat berdasarkan data individu.
+Proyek ini bertujuan untuk mengembangkan sebuah aplikasi prediksi yang dapat mengestimasi risiko obesitas berdasarkan faktor-faktor gaya hidup dan kesehatan individu. Dengan menggunakan teknik machine learning, khususnya algoritma **Random Forest**, proyek ini bertujuan untuk memberikan wawasan yang lebih baik dalam upaya pencegahan dan penanganan obesitas, serta memberikan rekomendasi yang lebih tepat berdasarkan data individu.
 
 Aplikasi ini dikembangkan menggunakan **Streamlit**, sehingga memungkinkan pengguna untuk dengan mudah menginput data dan mendapatkan hasil prediksi secara instan. Model yang digunakan telah diuji dan menunjukkan akurasi **96,17%**, menjadikannya alat yang andal dalam menilai risiko obesitas seseorang.
 
@@ -51,9 +51,10 @@ Proyek ini dibangun menggunakan berbagai teknologi dan library machine learning,
 
 ## **Installation & Usage**
 ### **1. Clone Repository**
+Untuk memulai proyek ini, pertama-tama Anda perlu meng-clone repositori dengan perintah berikut:
 ```bash
-git clone https://github.com/yourusername/obesity-prediction.git
-cd obesity-prediction
+git clone https://github.com/elisa11ramadanti/Aplikasi-Prediksi-Risiko-Obesitas-Menggunakan-Machine-Learning.git
+cd Aplikasi-Prediksi-Risiko-Obesitas-Menggunakan-Machine-Learning
 ```
 
 ### **2. Install Dependencies**
@@ -68,7 +69,7 @@ streamlit run app.py
 
 ## **Project Structure**
 ```
-│-- obesity-prediction/
+│-- Aplikasi-Prediksi-Risiko-Obesitas-Menggunakan-Machine-Learning/
 │   ├── data/                      # Dataset
 │   ├── models/                    # Model yang sudah dilatih
 │   ├── notebooks/                  # Eksplorasi data dan training model
