@@ -5,6 +5,10 @@ Proyek ini bertujuan untuk mengembangkan sebuah aplikasi prediksi yang dapat men
 
 Aplikasi ini dikembangkan menggunakan **Streamlit**, sehingga memungkinkan pengguna untuk dengan mudah menginput data dan mendapatkan hasil prediksi secara instan. Model yang digunakan telah diuji dan menunjukkan akurasi **96,17%**, menjadikannya alat yang andal dalam menilai risiko obesitas seseorang.
 
+## **Live Demo**
+Untuk mencoba aplikasi ini secara langsung dapat melalui link berikut:
+[BodyCheck+](https://bodycheck.streamlit.app/)
+
 ## **About Dataset**
 Dataset yang digunakan dalam proyek ini diperoleh dari repositori publik **UCI Machine Learning Repository**. Dataset ini mencakup berbagai fitur yang berkaitan dengan gaya hidup dan kesehatan, antara lain:
 
@@ -89,6 +93,5 @@ Beberapa peningkatan yang direncanakan dalam pengembangan aplikasi ini:
 - **Peningkatan Visualisasi**: Membuat tampilan hasil prediksi lebih interaktif.
 - **Penambahan Riwayat Prediksi**: Memungkinkan pengguna menyimpan hasil prediksi mereka.
 - **Optimasi Model**: Mengeksplorasi model machine learning lain untuk peningkatan akurasi.
-
 
 ---
